@@ -1,0 +1,820 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Thomas Gette</LastAuthor>
+  <Created>2023-03-16T23:40:28Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8100</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="mustang_camaro_sales">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="109" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Row>
+    <Cell><Data ss:Type="String">year</Data></Cell>
+    <Cell><Data ss:Type="String">sales</Data></Cell>
+    <Cell><Data ss:Type="String">generation</Data></Cell>
+    <Cell><Data ss:Type="String">make</Data></Cell>
+    <Cell><Data ss:Type="String">model</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1967</Data></Cell>
+    <Cell><Data ss:Type="Number">220906</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1968</Data></Cell>
+    <Cell><Data ss:Type="Number">235147</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1969</Data></Cell>
+    <Cell><Data ss:Type="Number">243085</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1970</Data></Cell>
+    <Cell><Data ss:Type="Number">124901</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1971</Data></Cell>
+    <Cell><Data ss:Type="Number">114630</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1972</Data></Cell>
+    <Cell><Data ss:Type="Number">68651</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1973</Data></Cell>
+    <Cell><Data ss:Type="Number">96571</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1974</Data></Cell>
+    <Cell><Data ss:Type="Number">151008</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1975</Data></Cell>
+    <Cell><Data ss:Type="Number">145770</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1976</Data></Cell>
+    <Cell><Data ss:Type="Number">182959</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1977</Data></Cell>
+    <Cell><Data ss:Type="Number">218853</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1978</Data></Cell>
+    <Cell><Data ss:Type="Number">272631</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1979</Data></Cell>
+    <Cell><Data ss:Type="Number">282571</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1980</Data></Cell>
+    <Cell><Data ss:Type="Number">152005</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1981</Data></Cell>
+    <Cell><Data ss:Type="Number">126139</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1982</Data></Cell>
+    <Cell><Data ss:Type="Number">189747</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1983</Data></Cell>
+    <Cell><Data ss:Type="Number">154381</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1984</Data></Cell>
+    <Cell><Data ss:Type="Number">261591</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1985</Data></Cell>
+    <Cell><Data ss:Type="Number">180018</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1986</Data></Cell>
+    <Cell><Data ss:Type="Number">192219</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1987</Data></Cell>
+    <Cell><Data ss:Type="Number">137760</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1988</Data></Cell>
+    <Cell><Data ss:Type="Number">96275</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1989</Data></Cell>
+    <Cell><Data ss:Type="Number">110739</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1990</Data></Cell>
+    <Cell><Data ss:Type="Number">34986</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1991</Data></Cell>
+    <Cell><Data ss:Type="Number">100838</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1992</Data></Cell>
+    <Cell><Data ss:Type="Number">70007</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1993</Data></Cell>
+    <Cell><Data ss:Type="Number">39103</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1994</Data></Cell>
+    <Cell><Data ss:Type="Number">119799</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1995</Data></Cell>
+    <Cell><Data ss:Type="Number">122738</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1996</Data></Cell>
+    <Cell><Data ss:Type="Number">61362</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="Number">60202</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="Number">54026</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="Number">42098</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">45461</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="Number">29009</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="Number">41776</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">81299</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">88249</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="Number">84391</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="Number">80567</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="Number">86297</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="Number">77502</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="Number">72705</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="Number">67940</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="Number">50963</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="Number">48265</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="Number">29775</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="Number">21893</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2022</Data></Cell>
+    <Cell><Data ss:Type="Number">24652</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Chevrolet</Data></Cell>
+    <Cell><Data ss:Type="String">Camaro</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1964</Data></Cell>
+    <Cell><Data ss:Type="Number">121538</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1965</Data></Cell>
+    <Cell><Data ss:Type="Number">559451</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1966</Data></Cell>
+    <Cell><Data ss:Type="Number">607568</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1967</Data></Cell>
+    <Cell><Data ss:Type="Number">472121</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1968</Data></Cell>
+    <Cell><Data ss:Type="Number">317404</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1969</Data></Cell>
+    <Cell><Data ss:Type="Number">299824</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1970</Data></Cell>
+    <Cell><Data ss:Type="Number">191239</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1971</Data></Cell>
+    <Cell><Data ss:Type="Number">151484</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1972</Data></Cell>
+    <Cell><Data ss:Type="Number">125813</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1973</Data></Cell>
+    <Cell><Data ss:Type="Number">134817</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1974</Data></Cell>
+    <Cell><Data ss:Type="Number">385993</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1975</Data></Cell>
+    <Cell><Data ss:Type="Number">188575</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1976</Data></Cell>
+    <Cell><Data ss:Type="Number">187567</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1977</Data></Cell>
+    <Cell><Data ss:Type="Number">153173</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1978</Data></Cell>
+    <Cell><Data ss:Type="Number">192410</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1979</Data></Cell>
+    <Cell><Data ss:Type="Number">369936</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1980</Data></Cell>
+    <Cell><Data ss:Type="Number">271322</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1981</Data></Cell>
+    <Cell><Data ss:Type="Number">182552</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1982</Data></Cell>
+    <Cell><Data ss:Type="Number">130418</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1983</Data></Cell>
+    <Cell><Data ss:Type="Number">120873</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1984</Data></Cell>
+    <Cell><Data ss:Type="Number">141480</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1985</Data></Cell>
+    <Cell><Data ss:Type="Number">156514</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1986</Data></Cell>
+    <Cell><Data ss:Type="Number">224410</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1987</Data></Cell>
+    <Cell><Data ss:Type="Number">169772</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1988</Data></Cell>
+    <Cell><Data ss:Type="Number">211225</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1989</Data></Cell>
+    <Cell><Data ss:Type="Number">209769</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1990</Data></Cell>
+    <Cell><Data ss:Type="Number">128189</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1991</Data></Cell>
+    <Cell><Data ss:Type="Number">98737</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1992</Data></Cell>
+    <Cell><Data ss:Type="Number">79280</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1993</Data></Cell>
+    <Cell><Data ss:Type="Number">114335</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1994</Data></Cell>
+    <Cell><Data ss:Type="Number">123198</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1995</Data></Cell>
+    <Cell><Data ss:Type="Number">136962</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1996</Data></Cell>
+    <Cell><Data ss:Type="Number">122674</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="Number">116610</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="Number">144732</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="Number">166915</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">173676</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="Number">169198</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="Number">138356</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="Number">140350</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="Number">129858</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="Number">160975</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="Number">166530</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="Number">134626</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">91251</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">66623</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">73716</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">70438</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="Number">82995</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="Number">77186</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="Number">82635</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="Number">122349</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="Number">105932</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="Number">81866</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="Number">75842</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="Number">72489</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="Number">61090</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="Number">52414</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2022</Data></Cell>
+    <Cell><Data ss:Type="Number">47566</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Ford</Data></Cell>
+    <Cell><Data ss:Type="String">Mustang</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>32</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>37</ActiveRow>
+     <RangeSelection>R38:R44</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
